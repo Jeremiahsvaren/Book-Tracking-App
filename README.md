@@ -4,7 +4,7 @@ The Book Tracking App is a web based app that allows users to track books in the
 
 ##To-Do List
 
-Is located ![here](https://trello.com/b/ZrHumsFS) on Trello
+Is located [here](https://trello.com/b/ZrHumsFS) on Trello
 ## Mock up
 
 ##### Home Page Before Login
