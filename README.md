@@ -8,7 +8,7 @@ Is located [here](https://trello.com/b/ZrHumsFS) on Trello
 ## Mock up
 
 ##### Home Page Before Login
-![Home Page](http://imgur.com/GSY3pgL.jpeg)
+![Home Page](http://imgur.com/QqD5E8n.jpeg)
 
 ##### Add a New Book Page
 ![New Book Page](http://imgur.com/O1NUf3f.jpeg)
